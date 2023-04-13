@@ -1,0 +1,163 @@
+/*pagina principal*/
+#c
+{
+    background-image: url(fon1.jpg);
+}
+.a
+{
+    font-size: 60px;
+    color: #ff7b00;
+    
+}
+p{
+    color: white;
+    font-size: 25px;
+}
+#a
+{
+    float: left;
+    border-radius: 1500px;
+}
+h1{
+    font-size: 40px;
+}
+h2 {
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(26, 17, 9);
+}
+h3 {
+    color: rgb(36, 36, 33);
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ol {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: rgb(24, 26, 24);
+}
+body {
+    background-image: url(img/fonfon.avif);
+}
+h2 {
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(10, 9, 7);
+}
+h3 {
+    color: rgb(7, 7, 6);
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ol {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: rgb(19, 20, 18);
+}
+.menun{
+list-style: none;
+padding: 0;
+background: rgb(11, 14, 4);
+width: 900%;
+max-width: 250px;
+margin: auto;
+}
+.menun li a{
+    text-decoration: none;
+    padding: 20px;
+    color: antiquewhite;
+    display: block;
+}
+.menun li{
+    text-align: left;
+    display: inline-block;
+}
+.menun li a:hover{
+    background: orange;
+}
+a{
+    font-size: 18px;}
+.menu{
+    list-style: none;
+    padding: 0;
+    background: rgb(52, 53, 51);
+    width: 900%;
+    max-width: 1090px;
+    margin: auto;
+}
+.menu li a{
+    text-decoration: none;
+    padding: 20px;
+    color: antiquewhite;
+    display: block;
+}
+.menu li{
+    text-align: left;
+    display: inline-block;
+}
+.menu li a:hover{
+    background: orange;
+}
+
+/*plantel ejecutivo*/
+.bag{
+    background-image: url(fon1.jpg);
+    
+}
+  .Plantel {
+    border-radius: 50%;
+    border-width: 7px;
+    border-color: #ff7b00;
+    border-style: solid;
+}
+.tam{
+    font-size: 30px;
+    color: rgb(102, 102, 100);
+    font-family: serif;
+}
+#b {
+    color: rgb(240, 205, 6);
+}
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+/*acerca de nosotros*/
+
+dd {
+    color: azure;
+    font-size: 20px;
+
+}
+#miki {
+    border-radius: 50%;
+    border-width: 7px;
+    border-color: orange;
+    border-style:dashed;
+}
+#f{
+    background-image: url(fondo\ 2.jpg);
+}
+.g{
+    font-size: 25px;
+    color: darkorange;
+}
+a{
+    font-size: 18px;
+}
+/*servicio*/
+body {
+    background-image: url(fondo\ 2.jpg);
+    }
+#server {
+    color: #ff7b00;
+
+}
+#server2 {
+    color: yellow;
+}
+#server3 {
+    color: rgb(156, 153, 147);
+}
+
